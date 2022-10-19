@@ -1,0 +1,15 @@
+{
+    "name": "process-drive/laravel-cloud-translation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProcessDrive\\LaravelCloudTranslation\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "yajra/laravel-datatables-oracle": "^9.21",
+        "spatie/laravel-translation-loader":"2.7.4"
+    }
+}
